@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>Mock</id>
+    <version></version>
+    <authors>Koleś GIT</authors>
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>...description goes here...</description>
+    <summary>...summary goes here...</summary>
+    <language>en-US</language>
+  </metadata>
+</package>
